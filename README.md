@@ -1,5 +1,8 @@
 # QPay Ruby SDK
 
+[![Gem Version](https://img.shields.io/gem/v/qpay-sdk.svg)](https://rubygems.org/gems/qpay-sdk)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Ruby SDK for the QPay V2 payment gateway API. Provides a simple, idiomatic Ruby interface with automatic token management, typed request/response structs, and comprehensive error handling.
 
 ## Installation
