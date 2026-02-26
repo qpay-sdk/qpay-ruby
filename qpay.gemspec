@@ -3,14 +3,15 @@
 require_relative "lib/qpay/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "qpay"
+  spec.name = "qpay-sdk"
   spec.version = QPay::VERSION
-  spec.authors = ["QPay Ruby SDK Authors"]
+  spec.authors = ["Usukhbayar"]
+  spec.email = ["coding.usukh@gmail.com"]
   spec.license = "MIT"
 
   spec.summary = "QPay V2 API Ruby SDK"
   spec.description = "Ruby SDK for QPay V2 payment gateway API with auto token management."
-  spec.homepage = "https://github.com/qpay/qpay-ruby"
+  spec.homepage = "https://github.com/qpay-sdk/qpay-ruby"
 
   spec.required_ruby_version = ">= 3.0.0"
 
