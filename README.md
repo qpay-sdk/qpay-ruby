@@ -1,5 +1,6 @@
 # QPay Ruby SDK
 
+[![CI](https://github.com/qpay-sdk/qpay-ruby/actions/workflows/ci.yml/badge.svg)](https://github.com/qpay-sdk/qpay-ruby/actions/workflows/ci.yml)
 [![Gem Version](https://img.shields.io/gem/v/qpay-sdk.svg)](https://rubygems.org/gems/qpay-sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
